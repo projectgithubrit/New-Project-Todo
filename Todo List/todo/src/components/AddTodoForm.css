@@ -1,0 +1,27 @@
+form {
+    margin-bottom: 16px;
+  }
+  
+  input[type="text"] {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-right: 8px;
+    width: 300px;
+    font-size: 16px;
+  }
+  
+  button {
+    background-color: #d48ed2;
+    color: #fff;
+    border: 1px solid #887575;
+    padding: 8px 16px;
+    cursor: pointer;
+    border-radius: 8px;
+    font-size: 16px;
+  }
+  
+  button:hover {
+    background-color: #6143e6;
+  }
+
